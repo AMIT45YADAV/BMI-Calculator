@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+}
+
+.container{
+  width: 300px;
+  padding: 8px;
+  border-radius: 4px;
+  margin:auto;
+  text-align: center;
+  background-color: #fff;
+  margin-top: 25px;
+}
+
+.container input{
+  width: 90%;
+  padding: 4px;
+  font-size: 16px;
+  position: relative;
+  top: -18px;
+}
+.inputs p{
+  text-align: left;
+  font-weight: 500;
+  padding: 11px;
+}
+.container .height{
+  position: relative;
+  top: -28px;
+}
+.btns button{
+  width: 92%;
+  height: 32px;
+  background-color: rgb(91, 91, 239);
+  color: #fff;
+  border-radius:2px ;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.container .reloadBtn{
+  background-color: #efeded;
+  color: black;
+  margin-top: 15px;
+}
+.result p{
+  font-weight:600;
+}
